@@ -7,7 +7,7 @@
 
 A client for the HTTP API of HashiCorp's [Vault] written for Node.js.
 
-(**NOTE**: this package is a temporary fork of https://github.com/kr1sp1n/node-vault while I wait for the [Kubernetes feature](https://github.com/kr1sp1n/node-vault/pull/92) and [token source feature](https://github.com/kr1sp1n/node-vault/pull/93) to be added.)
+(**NOTE**: this package is a temporary fork of https://github.com/kr1sp1n/node-vault while I wait for the [Kubernetes feature](https://github.com/kr1sp1n/node-vault/pull/92) and [token source feature](https://github.com/kr1sp1n/node-vault/pull/93) to be added. You can install and reference `@mpareja/node-vault` in the meantime.)
 
 ## install
 make sure to use node.js version >= 6
